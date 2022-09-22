@@ -1,25 +1,26 @@
 #EXTM3U
-#EXTINF:1,TVU
+
+#EXTINF:-1 ,TVU
 https://list.iptvcat.com/my_list/s/a806c2dfba9f37f960e60e401a492fcb.m3u8
-#EXTINF:1,RED AVENIR INTERNACIONAL
+#EXTINF:-1 ,RED AVENIR INTERNACIONAL
 https://list.iptvcat.com/my_list/s/f70b7608a0bd258615de5851cc114dd3.m3u8
-#EXTINF:1,BOLIVISION 1
+#EXTINF:-1 ,BOLIVISION 1
 https://list.iptvcat.com/my_list/s/9c67a41118cd02e42202ab6a3a54ea15.m3u8
-#EXTINF:1,BOLIVISION 2
+#EXTINF:-1 ,BOLIVISION 2
 https://list.iptvcat.com/my_list/s/89458c3a52b10d093fc90b55719d5fa7.m3u8
-#EXTINF:1,BOLIVISION 3
+#EXTINF:-1 ,BOLIVISION 3
 https://list.iptvcat.com/my_list/s/5b59054f80878754c85c0e424906b13d.m3u8
-#EXTINF:1,BOLIVISION SD
+#EXTINF:-1 ,BOLIVISION SD
 https://list.iptvcat.com/my_list/s/f2b980f3e4cc24b7e93255d95c71c1aa.m3u8
-#EXTINF:1,CATOLICA TV
+#EXTINF:-1 ,CATOLICA TV
 https://list.iptvcat.com/my_list/s/5e501dda80109bb5538f3993b33c9893.m3u8
-#EXTINF:1,TIGO SPORT 1
+#EXTINF:-1 ,TIGO SPORT 1
 https://list.iptvcat.com/my_list/s/aabf095847fb95bf4e71fbd52446fbba.m3u8
-#EXTINF:1,TIGO SPORT 2
+#EXTINF:-1 ,TIGO SPORT 2
 https://list.iptvcat.com/my_list/s/4003b7aea5fdd32aeec535f3b7adda20.m3u8
-#EXTINF:1,TIGO SPORT 3
+#EXTINF:-1 ,TIGO SPORT 3
 https://list.iptvcat.com/my_list/s/53cff9efa12ccd9c694bbfcd70207443.m3u8
-#EXTINF:1,UNITEL 1
+#EXTINF:-1 ,UNITEL 1
 https://list.iptvcat.com/my_list/s/8c8cba693cab2fc0c36b821462ed42a1.m3u8
-#EXTINF:1,UNITEL 2
+#EXTINF:-1 ,UNITEL 2
 https://list.iptvcat.com/my_list/s/18016ba2203d2162c53a3f0c194c8461.m3u8
